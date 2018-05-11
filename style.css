@@ -1,0 +1,460 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .title-jumbotron {
+    background: #F6F6F6;
+  }
+
+  .header a {
+    margin: 25px;
+    color: #C61170;
+    font-size:12px;
+  }
+
+  .header a:hover  {
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .prisijunk a {
+      color: #333333;
+  }
+
+  .prisijunk a:hover {
+    color: #C61170;
+  }
+
+  .color {
+    color: #C61170;
+  }
+
+  .antraste a {
+    color: #C61170;
+  }
+
+  .zenklas {
+      padding: 0px, 10px;
+  }
+
+  .header input {
+    padding: 8px;
+    width: 450px;
+    margin-top: 50px;
+    border-radius: 25px;
+  }
+
+  .greitasApsiirkimas input {
+    border-radius: 25px;
+    width: 450px;
+    padding: 3px;
+  }
+
+  .greitasApsiirkimas i {
+    color: #C61170;
+    margin-top: 5px;
+    font-size: 20px;
+  }
+
+  .header i {
+    color: #C61170;
+    margin-top: 54px;
+    font-size: 30px;
+  }
+
+  .position {
+    padding-top: 15px;
+  }
+
+  .search a {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 0px;
+    margin-right: 18px;
+  }
+
+  .header img {
+    width: 200px;
+  }
+
+  .margintop {
+    margin-top: 30px;
+  }
+
+  .menu, .menu-pagrindinis {
+    text-align: center;
+  }
+
+  .menu a {
+    color: #C61170;
+    font-size: 14px;
+    padding-top: 0;
+    padding-right: 20px;
+  }
+
+  .menu-pagrindinis a {
+    color: #C61170;
+    text-shadow: 2px 1px 4px #411D3F;
+    font-size: 18px;
+    padding: 15px;
+  }
+  .menu-pagrindinis a:hover {
+    background-color: #411D3F;
+    padding: 15px;
+    color: white;
+  }
+  .menu-pagrindinis {
+    border-top: 1px solid white;
+    padding-top: 10px;
+    border-bottom: 1px solid white;
+  }
+
+  .borderpilkas {
+    border-top: 2px solid #F6F6F6;
+    border-bottom: 2px solid #F6F6F6;
+  }
+
+  .borderpilkasbottom {
+    border-bottom: 2px solid #F6F6F6;
+  }
+
+  .h3 {
+    text-align: center;
+    color: #411D3F;
+    margin-bottom: 30px;
+  }
+
+  .btn-primary {
+    background-color: #C61170;
+    border: 2px solid #C61170;
+  }
+
+  .btn-primary:hover {
+    background-color: #411D3F;
+    border:2px solid #411D3F;
+  }
+
+  .btn-primary:active, .btn-primary:active:focus, .btn-primary:focus {
+    background-color: #411D3F;
+    border:2px solid #411D3F;
+  }
+
+
+
+  .akcija {
+    color: #C61170;
+    padding-left: 18px;
+    font-size: 18px;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .center span {
+    text-align: center;
+  }
+  s {
+    color: #C61170;
+  }
+
+  .tabelpristatymas {
+    border:2px solid #411D3F;
+    padding: 30px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .tabelpristatymas a:hover {
+    color: #C61170;
+    text-decoration: none;
+
+  }
+
+  .tabelpristatymas a {
+    color:#411D3F;
+  }
+
+  .tabelpristatymas .fa {
+    font-size: 30px;
+  }
+
+.date {
+  padding-top: 15px;
+}
+
+.social i {
+  font-size: 40px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.contakt li {
+  list-style-type: none;
+  padding: 4px;
+  font-size: 16px;
+}
+
+.contakt a {
+  color: white;
+}
+
+.contakt a:hover {
+  color: #C61170;
+}
+
+
+.footer {
+	background-image: url("img/karusele/foto1.jpg");
+	background-size: cover;
+	background-position: center center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footer h3 {
+  text-shadow: 4px 2px 5px #411D3F;
+}
+
+.firstpart {
+	background-color:rgb(198, 17, 112, 0.7);
+	padding: 35px 0 40px;
+	margin-bottom: 50px;
+	color: white;
+}
+
+.secondpart {
+  background-color:rgb(65, 29, 63, 0.7);
+	padding: 35px 0 40px;
+	color: white;
+}
+ 
+.pabaiga {
+  padding: 0px;
+}
+
+.atgal button, .atgal a {
+  color: #C61170;
+  font-size: 16px;
+}
+
+.atgal {
+  padding: 15px;
+  text-shadow: 4px 2px 5px #411D3F;
+}
+
+.gaminiai h2 {
+  color: #C61170;
+}
+
+.qtyupanddown input {
+  width: 50px;
+  border: 2px solid #411D3F;
+  border-radius: 15px;
+  padding: 5px;
+  margin: 10px 10px 20px 4px;
+}
+
+.gaminiai img {
+  margin: 40px 0px 10px 0px;
+}
+
+
+.gaminioremai {
+  margin: 50px;
+}
+
+.margin {
+  margin-bottom: 20px;
+}
+
+.margintop {
+  margin-top: 30px;
+}
+
+
+.kaina {
+  margin: 20px 50px;
+  padding: 20px;
+  border-top: 2px solid #411D3F;
+  border-bottom: 2px solid #411D3F;
+}
+
+.aprasymas p {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.greitasApsiirkimas img {
+  width: 150px;
+  margin: 30px 40px;
+}
+
+.greitasApsiirkimas .btn {
+  margin: 10px 70px
+}
+
+.greitasApsiirkimas {
+  color: #411D3F;
+  margin: 60px
+}
+
+.greitasApsiirkimas p {
+  font-size: 14px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #F6F6F6;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #F6F6F6;
+}
+
+.list-group-item.active {
+  background-color: #C61170;
+  border: 2px solid #C61170;
+}
+
+.list-group-item.active:hover {
+  background-color: #411D3F;
+  border: 2px solid #411D3F;
+}
+
+.list-group-item {
+  border: 1px solid #C61170;
+}
+
+.list-group {
+  font-size: 16px;
+}
+
+.gaminiai .card-title {
+  height: 2em;
+}
+
+.groziopatarimai li {
+  font-size: 18px;
+  padding: 0px 0px 4px 0px;
+}
+
+.groziopatarimai a {
+  color: #411D3F;
+}
+
+.groziopatarimai a:hover {
+  color:#C61170;
+  text-shadow: 2px 1px 3px #411D3F;
+}
+
+.groziopatarimai h3 {
+  color:#C61170;
+  padding-bottom: 6px;
+}
+
+.groziopatarimai {
+  margin: 40px 20px 40px 20px;
+}
+
+.straipsnis {
+  margin: 20px;
+}
+
+.straipsnis p {
+  font-size: 14px;
+  color: #333333;
+  text-align: justify;
+}
+
+.straipsnis h2 {
+  color: #411D3F;
+  text-shadow: 2px 1px 3px #C61170;
+}
+
+.groziopatarimai .height {
+  margin: 30px;
+  height: 400px;
+}
+
+.straipsnis img {
+  margin: 40px;
+}
+
+.groziopatarimai ul {
+  list-style-type: none;
+}
+
+.groziopatarimai span {
+  color: #C61170;
+}
+
+.grazinimo img {
+  width: 400px;
+}
+
+.grazinimo li {
+  padding: 5px;
+  color: #411D3F;
+}
+
+.grazinimo h3 {
+  color: #C61170;
+  margin: 25px;
+}
+
+.grazinimo ul {
+  font-size: 18px;
+  list-style-type: none;
+  padding: 5px;
+  color: #411D3F;
+}
+
+.grazinimo {
+  font-size: 18px;
+}
+
+.grazinimo p {
+  text-align: justify;
+  margin: 18px;
+}
+
+.konsutantas {
+  margin: 50px;
+  text-align: center;
+}
+
+.margin {
+  margin: 30px;
+}
+
+.gaminys .card {
+  height: 460px;
+}
+
+.krepselis {
+  border-bottom: 2px solid #F6F6F6;
+}
+
+.krepselis img {
+  width: 200px;
+}
+
+.pagination li a {
+  color: #C61170;
+  border: 2px solid #411D3F;
+}
+
+.pagination li  a:hover {
+  background-color: #C61170;
+  color: white;
+  border: 2px solid #411D3F;
+}
